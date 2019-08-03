@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9d5bc85-075e-43f5-9d9b-832d067a787a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/ConditionalStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/IfConditionalStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/WhileConditionalStatements.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,9 +40,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ForEachLoop">
-    <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.ForEachLoop" />
+  <component name="RunManager" selected="Application.Arrays">
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.Arrays" />
       <module name="java-keyword-implementation" />
       <extension name="coverage">
         <pattern>
@@ -57,8 +54,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfConditionalStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.IfConditionalStatements" />
+    <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.ForEachLoop" />
       <module name="java-keyword-implementation" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.ForEachLoop" />
         <item itemvalue="Application.whileLoop" />
         <item itemvalue="Application.SwitchConditionalStatement" />
         <item itemvalue="Application.WhileConditionalStatements" />
-        <item itemvalue="Application.IfConditionalStatements" />
       </list>
     </recent_temporary>
   </component>
@@ -146,10 +143,13 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/stackroute/ForEachLoop.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="2" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/stackroute/Arrays.java</url>
+          <line>3</line>
+          <properties class="com.stackroute.Arrays" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
