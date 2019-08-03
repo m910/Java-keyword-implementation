@@ -2,7 +2,7 @@ package com.stackroute;
 
 import java.util.Scanner;
 
-public class ConditionalStatements {
+public class IfConditionalStatements {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter an integer");
