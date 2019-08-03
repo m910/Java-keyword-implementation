@@ -40,7 +40,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Arrays">
+  <component name="RunManager" selected="Application.Interface">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stackroute.Arrays" />
       <module name="java-keyword-implementation" />
@@ -67,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchConditionalStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.SwitchConditionalStatement" />
+    <configuration name="Interface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.Interface" />
       <module name="java-keyword-implementation" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileConditionalStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.WhileConditionalStatements" />
+    <configuration name="SwitchConditionalStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.SwitchConditionalStatement" />
       <module name="java-keyword-implementation" />
       <extension name="coverage">
         <pattern>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Interface" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.ForEachLoop" />
         <item itemvalue="Application.whileLoop" />
         <item itemvalue="Application.SwitchConditionalStatement" />
-        <item itemvalue="Application.WhileConditionalStatements" />
       </list>
     </recent_temporary>
   </component>
@@ -139,19 +139,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/stackroute/Arrays.java</url>
-          <line>3</line>
-          <properties class="com.stackroute.Arrays" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
